@@ -1,5 +1,5 @@
 import Foundation
 
-struct DependentPackage {
-    var text = "This is not working in tests"
+public struct DependentPackage {
+    public var text = "This is not working in tests"
 }

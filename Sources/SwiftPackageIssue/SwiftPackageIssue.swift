@@ -1,5 +1,5 @@
 import Foundation
 
-struct SwiftPackageIssue {
-    var text = "Hello, World!"
+public struct SwiftPackageIssue {
+    public var text = "Hello, World!"
 }
